@@ -1,0 +1,14 @@
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\bin\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.exe
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\bin\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.deps.json
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\bin\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.runtimeconfig.json
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\bin\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.dll
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\bin\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.pdb
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\obj\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\obj\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.AssemblyInfoInputs.cache
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\obj\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.AssemblyInfo.cs
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\obj\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.csproj.CoreCompileInputs.cache
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\obj\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.dll
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\obj\Debug\net9.0\refint\3.Hafta-If-ElseIf-Else-Switch-Loops.dll
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\obj\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.pdb
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\obj\Debug\net9.0\3.Hafta-If-ElseIf-Else-Switch-Loops.genruntimeconfig.cache
+C:\Users\Tortudereli\Desktop\CSharp-Egitim\3.Hafta-If-ElseIf-Else-Switch-Loops\obj\Debug\net9.0\ref\3.Hafta-If-ElseIf-Else-Switch-Loops.dll
