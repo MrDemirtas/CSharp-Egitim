@@ -16,6 +16,10 @@ class Program
     Console.WriteLine(StringMethod.birlestir("Furkan", "Demirtaş"));
     Console.WriteLine("----------------------");
 
+    Console.WriteLine("Action Metotu:");
+    ActionMethod.veriKaydet();
+    Console.WriteLine("----------------------");
+
     Console.WriteLine("Asenkron metot:");
     await Asenkron.RunAsync();
     Console.WriteLine("----------------------");

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Subat-4.Odev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17554afd411ad7f754ca60f267df9c291f5dad53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a302d993f1e80e55b7c4f318e7cfaaaae73af649")]
 [assembly: System.Reflection.AssemblyProductAttribute("Subat-4.Odev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Subat-4.Odev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
